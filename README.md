@@ -67,6 +67,7 @@ https://github.com/anuragk16/Mystic-Survival-Realms/assets/90235816/eb9be391-534
 
 ## ASSETES:
 all assets are created by including the followiing:
+
 chests: ![chest_closed](https://github.com/Chapstick53/Dungeon-master-game/assets/131119052/78923592-a271-4cd9-b8dc-250aa4a73383)
 ![chest_opened](https://github.com/Chapstick53/Dungeon-master-game/assets/131119052/68423d39-d1af-4a90-aeb0-46b9e3df3828)
 
