@@ -64,6 +64,19 @@ https://github.com/anuragk16/Mystic-Survival-Realms/assets/90235816/eb9be391-534
 - **level1.py**: Contains level-specific logic and the `Dungeon_Gate_Enter` function for handling dungeon entry.
 - **menu.py**: Contains the `menu_screen` function for displaying the start menu.
 
+
+## ASSETES:
+all assets are created by including the followiing:
+chests: ![chest_closed](https://github.com/Chapstick53/Dungeon-master-game/assets/131119052/78923592-a271-4cd9-b8dc-250aa4a73383)
+![chest_opened](https://github.com/Chapstick53/Dungeon-master-game/assets/131119052/68423d39-d1af-4a90-aeb0-46b9e3df3828)
+
+Healing Potion: ![healing_flask](https://github.com/Chapstick53/Dungeon-master-game/assets/131119052/54833eae-fd26-4112-9343-8857cec0f9b4)
+Mana Potion: ![mana_flask](https://github.com/Chapstick53/Dungeon-master-game/assets/131119052/26aea447-fc82-45bd-bcf9-4c31e4a4b0ed)
+
+Character sprites: ![player_front1](https://github.com/Chapstick53/Dungeon-master-game/assets/131119052/6b7985a3-15d9-42cc-ba79-f1b8a466dd8f)
+![player_back2](https://github.com/Chapstick53/Dungeon-master-game/assets/131119052/44292f5a-3140-4af8-869b-bd899ec4c28a)
+
+
 ## Contributing
 
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
