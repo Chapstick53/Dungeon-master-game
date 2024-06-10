@@ -1,6 +1,6 @@
 # Dungeon-master-game
 
-Mystic Survival Realms is a 2D action-adventure game built using Python and Pygame. The game features interactive entities, engaging gameplay mechanics, and dynamic exploration.
+Dungeon-master-games is a 2D action-adventure game built using Python and Pygame. The game features interactive entities, engaging gameplay mechanics, and dynamic exploration.
 
 ## Features
 
@@ -68,7 +68,7 @@ https://github.com/anuragk16/Mystic-Survival-Realms/assets/90235816/eb9be391-534
 ## ASSETES:
 all assets are created by including the followiing:
 
-chests: ![chest_closed](https://github.com/Chapstick53/Dungeon-master-game/assets/131119052/78923592-a271-4cd9-b8dc-250aa4a73383)
+Chests: ![chest_closed](https://github.com/Chapstick53/Dungeon-master-game/assets/131119052/78923592-a271-4cd9-b8dc-250aa4a73383)
 ![chest_opened](https://github.com/Chapstick53/Dungeon-master-game/assets/131119052/68423d39-d1af-4a90-aeb0-46b9e3df3828)
 
 Healing Potion: ![healing_flask](https://github.com/Chapstick53/Dungeon-master-game/assets/131119052/54833eae-fd26-4112-9343-8857cec0f9b4)
